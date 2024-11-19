@@ -1,59 +1,54 @@
-[
-  {
+[ {
     "takealist": {
       "meta": {
-        "title": "My first list",
-        "description": "This is an example for a takealist",
-        "status": "In Progress"
+        "title": "Umstieg auf Home-Office",
+        "description": "Vorbereitungen, um produktiv und stressfrei von zu Hause zu arbeiten"
       },
       "list": {
         "steps": [
           {
-            "step": "Fork",
-            "text": "Fork this list, if you like to share your list on github",
-            "status": "In Progress"
+            "step": "Arbeitszeiten festlegen",
+            "text": "Beginn und Ende festlegen und einhalten, um Struktur zu bewahren",
+            "status": "Open"
           },
           {
-            "step": "Download",
-            "text": "Or just download this list on your device",
-            "status": "Waiting"
+            "step": "Arbeitsplatz einrichten",
+            "text": "Festen Platz einrichten (Schreibtisch, ergonomischer Stuhl, Licht)"
           },
           {
-            "step": "Upload",
-            "text": "and upload it on https://takealist.app to explore the list"
+            "step": "Technik check",
+            "text": "Internet, Laptop, Tastatur, Maus, Drucker, Scanner"
+          },
+           {
+            "step": "Tag planen",
+            "text": "Termine im Blick behalten, feste Zeiten für Arbeiten einplanen"
+          },
+           {
+            "step": "Ablenkungen reduzieren",
+            "text": "Handy auf stumm, Festnetz-Tel auf stumm, TV aus"
+          },
+           {
+            "step": "Regelmäßige Pausen einplanen",
+            "text": "Klo, Kaffee, lüften"
+          }
+          ,
+           {
+            "step": "Gesunde Snacks bereitstellen",
+            "text": "Einkaufen, vorbereiten, bereitstellen"
+          },
+           {
+            "step": "Virtuelle Team-Meetings planen",
+            "text": "um in Kontakt mit dem Team zu bleiben"
+          },
+           {
+            "step": "Tägliche Bewegung einplanen",
+            "text": "Stretching, Spaziergänge, Sport"
+          },
+           {
+            "step": "Feierabendritual einführen",
+            "text": "Arbeitstag abschließen, Technik aus, Türe vom Raum schließen, abschalten"
           }
         ]
       }
     }
-  },
-  {
-    "takealist": {
-      "meta": {
-        "title": "Further list",
-        "description": "As you can see, you are able to store many lists within 1 file",
-        "status": "Waiting"
-      },
-      "list": {
-        "steps": [
-          {
-            "step": "With many or only 1 step",
-            "text": "like this one",
-            "status": "Waiting"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "takealist": {
-      "meta": {
-        "title": "List without steps",
-        "description": "...is possible too",
-        "status": "In Progress"
-      },
-      "list": {
-        "steps": []
-      }
-    }
-  }
-]
+} ]
